@@ -45,11 +45,11 @@ msgid "Architecture: "
 msgstr ""
 
 msgctxt "#609"
-msgid "LibreELEC is a minimal Linux distribution purpose built for Kodi media center. LibreELEC is designed to boot fast with an installation process simple enough for anyone to convert a bare HTPC into a fully configured media machine in under 15 minutes."
+msgid "Hookcell Tune is a purpose built media center. It is designed to serve your home needs."
 msgstr ""
 
 msgctxt "#610"
-msgid "[B]Support:[/B][CR]Web: http://libreelec.tv[CR]Forum: http://forum.libreelec.tv/[CR]Wiki: http://wiki.libreelec.tv[CR][CR][B]Social Media:[/B][CR]IRC: #libreelec on freenode.net (web-based chat is also available from the website)[CR]Twitter: https://twitter.com/libreelec[CR]Facebook: http://www.facebook.com/LibreELEC"
+msgid "[B]Support:[/B][CR]Web: http://hookcell.com/tune[CR][CR][CR]"
 msgstr ""
 
 msgctxt "#700"
@@ -73,7 +73,7 @@ msgid "Configure and pair Bluetooth devices"
 msgstr ""
 
 msgctxt "#705"
-msgid "Useful information like version and architecture details, support and social media links, and how to make a donation to the project"
+msgid "Useful information like version and architecture details, support and social media links, and how you can support the project"
 msgstr ""
 
 msgctxt "#710"
@@ -101,7 +101,7 @@ msgid "Set to ON and an on-screen notification will be displayed when a new upda
 msgstr ""
 
 msgctxt "#718"
-msgid "Send config.txt, cmdline.txt, shutdown.sh, autostart.sh, and kodi.log to http://sprunge.us and display the short URL"
+msgid "ok"
 msgstr ""
 
 msgctxt "#720"
@@ -109,7 +109,7 @@ msgid "Set to ON and Bluetooth devices will be disabled during power-saving mode
 msgstr ""
 
 msgctxt "#722"
-msgid "Create a tar archive containing all @DISTRONAME@ and Kodi configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
+msgid "Create a tar archive containing all @DISTRONAME@ and configuration settings, databases and thumbnail content. Backup files will be stored in /storage/backups"
 msgstr ""
 
 msgctxt "#723"
@@ -117,11 +117,11 @@ msgid "Restore a tar archive backup previously created using the backup option a
 msgstr ""
 
 msgctxt "#724"
-msgid "[COLOR FF00FF00]SOFT RESET[/COLOR]\nPermanently reset @DISTRONAME@ configuration to defaults (resets also Kodi to default including your library. your media - music/videos/etc are not touched)"
+msgid "[COLOR FF00FF00]SOFT RESET[/COLOR]\nPermanently reset @DISTRONAME@ configuration to defaults "
 msgstr ""
 
 msgctxt "#725"
-msgid "[COLOR FFFF0000]HARD RESET[/COLOR]\nPermanently reset @DISTRONAME@ and Kodi configuration to defaults (everything in your storage partition will be deleted)"
+msgid "[COLOR FFFF0000]HARD RESET[/COLOR]\nPermanently reset @DISTRONAME@ and configuration to defaults (everything in your storage partition will be deleted)"
 msgstr ""
 
 msgctxt "#726"
@@ -157,7 +157,7 @@ msgid "Configure the 3rd time (NTP) server"
 msgstr ""
 
 msgctxt "#736"
-msgid "Set to ON to delay Kodi startup until the network is available. Use this if the OS is booting into Kodi before the network is up and central MySQL databases are accessible."
+msgid "Set to ON to delay Tune startup until the network is available. Use this if the OS is booting into Tune before the network is up and central MySQL databases are accessible."
 msgstr ""
 
 msgctxt "#737"
@@ -181,7 +181,7 @@ msgid "Set the password for Samba sharing"
 msgstr ""
 
 msgctxt "#742"
-msgid "Set to ON to enable the embedded SSH server. The SSH console can be accessed with username 'root' and password '@ROOT_PASSWORD@'."
+msgid "Set to ON to enable the embedded SSH server."
 msgstr ""
 
 msgctxt "#743"
@@ -597,7 +597,7 @@ msgid "Sharing and Remote Access"
 msgstr ""
 
 msgctxt "#32312"
-msgid "@DISTRONAME@ also supports SSH for remote access. This is for advanced users who wish to interact with @DISTRONAME@'s underlying operating system. The default user is [COLOR blue]root[/COLOR] and the default password is [COLOR blue]@ROOT_PASSWORD@[/COLOR]."
+msgid "@DISTRONAME@ also supports SSH for remote access. This is for advanced users who wish to interact with @DISTRONAME@'s underlying operating system."
 msgstr ""
 
 msgctxt "#32313"
@@ -613,7 +613,7 @@ msgid "Thank you"
 msgstr ""
 
 msgctxt "#32318"
-msgid "Your @DISTRONAME@ installation is now complete and you'll now enter Kodi when you can set up your media libraries. For help with this, there is a guide available at wiki.kodi.tv[CR][CR]@DISTRONAME@ is developed by a dedicated team of developers who work purely in their spare time. Even as a volunteer project, we still have to pay for our internet bandwidth and development resources so if you find @DISTRONAME@ useful, we will always appreciate a donation of any amount.[CR][CR]Finally, we hope you enjoy using @DISTRONAME@ as much as we've enjoying building it. If you need any more help, you can find links to get help along with latest news at our website"
+msgid "Your @DISTRONAME@ installation is now complete and you'll now enter Tune when you can set up your media libraries."
 msgstr ""
 
 msgctxt "#32319"
@@ -721,7 +721,7 @@ msgid "Advanced Network Settings"
 msgstr ""
 
 msgctxt "#32369"
-msgid "Wait for network before starting Kodi"
+msgid "Wait for network before starting application"
 msgstr ""
 
 msgctxt "#32370"
@@ -733,7 +733,7 @@ msgid "Backup"
 msgstr ""
 
 msgctxt "#32372"
-msgid "Create System and Kodi Backup"
+msgid "Create System Backup"
 msgstr ""
 
 msgctxt "#32373"
